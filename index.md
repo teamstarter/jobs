@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Développeu(r/se) Fullstack NodeJS/React
 
-You can use the [editor on GitHub](https://github.com/teamstarter/teamstarter-jobs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## A propos de Teamstarter
+Fondée en Juin 2019, [Teamstarter](https://teamstarter.co) est une plateforme de financement collaboratif en entreprise. Teamstarter permet aux entreprises de verser un budget à leurs collaborateurs qu'ils peuvent dépenser dans des projets qu'ils créés et réalisent eux-mêmes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nous rejoindre c'est prendre part à une aventure passionnante et innovante afin de devenir la référence de l'engagement des salariés. Nous avons déjà 10 000 utilisateurs et une croissance constante.
 
-### Markdown
+Ton statut d'employé "early-stage" te mènera rapidement à beaucoup de responsabilités avec la croissance du pôle technique.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Intitulé du poste
+
+Dans le cadre de son développement Teamstarter recrute un(e) Développeu(r/se) Fullstack Node.JS/React.
+
+## Activité principales
+
+Rattaché au CTO, tu aura les missions suivantes :
+
+* Livrer du code de qualité qui implémente les besoins métier
+* S’assurer du bon fonctionnement de son application en production
+* Participer au développement de la plateforme de crowdfunding et de support (Backend/Frontend)
+* Participer à la création du produit depuis les besoins utilisateurs
+* Développer des briques open-sources pour le programme de R&D
+
+# Profil recherché
+
+Organisé, autonome, méthodique, tu sais prioriser tes missions, prendre des initiatives et tu es capable de faire preuve d’une très importante rigueur dans le travail.
+
+Tu souhaite créer des projets de toutes pièces. Tu as une petite fibre artistique, le design d'UI ne te fait pas peur, tu as envie d'apprendre à maintenir et créer un Design System.
+
+Tu as pour ambition de contribuer activement à un projet entrepreneurial d’envergure internationale et à la construction d’une marque à destination du grand public
+
+# Compètences :
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Au moins 2 ans d'expérience en Typescript/Javascript, React et NodeJs
+* Tu as déjà utilisé GraphQL
+* Des connaissances solides en SQL, Unix.
+* Sensibilisé(e) à la qualité et à la performance des applications
+* Maîtrise des outils du développeur de logiciels web (Git / VSCode).
+* Doit avoir un diplôme équivalent ou supérieur à un Master 2
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Les petits plus :
 
-### Jekyll Themes
+```markdown
+* L’anglais courant 
+* Une expérience de Figma / Framer / Illustrator
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teamstarter/teamstarter-jobs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Intéréssé(e) ? Contacte [vincent@teamstarter.co](mailto:vincent@teamstarter.co)
