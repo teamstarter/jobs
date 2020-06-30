@@ -7,9 +7,8 @@ Nous rejoindre c'est prendre part à une aventure passionnante et innovante afin
 
 Ton statut d'employé "early-stage" te mènera rapidement à beaucoup de responsabilités avec la croissance du pôle technique.
 
-## Intitulé du poste
-
-Dans le cadre de son développement Teamstarter recrute un(e) Développeu(r/se) Fullstack Node.JS/React.
+![Notre équipe](https://teamstarter.co/teamstarter-group.png)
+*L'équipe*
 
 ## Activité principales
 
@@ -18,8 +17,10 @@ Rattaché au CTO, tu aura les missions suivantes :
 * Livrer du code de qualité qui implémente les besoins métier
 * S’assurer du bon fonctionnement de son application en production
 * Participer au développement de la plateforme de crowdfunding et de support (Backend/Frontend)
-* Participer à la création du produit depuis les besoins utilisateurs
+* Participer à la création du produit depuis les besoins utilisateurs (brainstorms, mockups, documentation)
 * Développer des briques open-sources pour le programme de R&D
+
+Le travail est effectué en plein coeur de Paris, en face du REX.
 
 # Profil recherché
 
